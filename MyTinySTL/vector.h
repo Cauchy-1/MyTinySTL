@@ -7,7 +7,7 @@
 // notes:
 //
 // 异常保证：
-// mystl::vecotr<T> 满足基本异常保证，部分函数无异常保证，并对以下函数做强异常安全保证：
+// mystl::vector<T> 满足基本异常保证，部分函数无异常保证，并对以下函数做强异常安全保证：
 //   * emplace
 //   * emplace_back
 //   * push_back
